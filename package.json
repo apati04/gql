@@ -1,0 +1,14 @@
+{
+  "name": "gql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/apati04/gql.git",
+  "author": "Andrew Patipaksiri <apax714@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.12.3",
+    "lodash": "^4.17.4"
+  }
+}
